@@ -2,7 +2,7 @@
 
 This project is a Bash script that reads a schedule from a `.txt` file and displays a visual table of the schedules for each day of the week. It helps manage and visualize multiple people's schedules in a clear, easy-to-read format.
 
-![Schedule Preview](./schedule_preview.png)
+![Schedule Preview](./.png)
 
 ## Features
 - Displays a schedule for the specified day (or the current day by default).
