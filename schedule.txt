@@ -1,0 +1,17 @@
+Charlie Monday 11:00 12:20
+Charlie Monday 15:00 15:50
+Charlie Monday 16:00 16:50
+Charlie Tuesday 15:30 16:50
+Charlie Wednesday 11:00 12:20
+Charlie Wednesday 15:00 15:50
+Charlie Wednesday 16:00 16:50
+Charlie Thursday 15:30 16:50
+Charlie Friday 13:00 13:50
+Charlie Friday 15:00 15:50
+Charlie Friday 16:00 16:50
+
+Ben Monday 11:00 12:20
+Ben Tuesday 11:00 12:20
+Ben Wednesday 11:00 12:20
+Ben Thursday 11:00 12:20
+Ben Friday 13:00 13:50
